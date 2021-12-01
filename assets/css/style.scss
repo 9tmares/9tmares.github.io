@@ -2,7 +2,18 @@
 ---
 
 @import "jekyll-theme-architect";
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
+
+header {
+  background: #93abeb;
+}
 
 body {
   background: #fab1cc;
+}
+
+#sidebar {
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 16px;
+  line-height: 1.5;
 }
