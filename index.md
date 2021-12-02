@@ -1,10 +1,10 @@
 # 9tmares
 
-Using this as a workspace for mainly myself.
+Checkpoint with all notes here.
 
-### Markdown
+### For now
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Keeping this part here for now... have to learn how to change this content while clicking buttons on the side bar.
 
 ```markdown
 Syntax highlighted code block
