@@ -22,8 +22,16 @@ body {
 
 #main-content {
   background: #D5A5E7;
-  padding-left: 30px;
+  padding-left: 20px;
 }
+#main-content h1:before{
+  margin-left: -0.1em;
+}
+
+#main-content h3:before{
+  margin-left: -0.1em;
+}
+
 
 aside#sidebar {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
