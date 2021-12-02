@@ -1,4 +1,4 @@
-# Welcome to 9tmares World
+# 9tmares
 
 Using this as a workspace for mainly myself.
 
