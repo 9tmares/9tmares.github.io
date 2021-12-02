@@ -13,7 +13,12 @@ header {
 }
 
 body {
-  background: #D5A5E7;
+//  background: #D5A5E7;
+  background-image: url(../images/header-bg.gif);
+  background-size:auto;
+  background-repeat:repeat-x;
+  background-attachment:fixed;
+  background-position:bottom;
 }
 
 aside#sidebar {
