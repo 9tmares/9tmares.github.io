@@ -22,6 +22,11 @@ body {
 
 #main-content {
   background: #D5A5E7;
+  padding-left: 20px;
+}
+
+#main-content h1:before {
+  margin-left: -0.1em;
 }
 
 aside#sidebar {
