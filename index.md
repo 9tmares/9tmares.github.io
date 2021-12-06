@@ -1,5 +1,7 @@
 # 9tmares
 
+![9tmares pfp Icon](../images/9tmares.jfif)
+
 Hiiii!! I'm 9tmares. This is my github page.
 
 Making this as a personal website.
@@ -9,7 +11,7 @@ Going to enjoy `coding` with it.
 
 
 
-### Facts on this website
+## Facts on this website
 
 The Jekyll theme used for this website as a template is Architect.
 
