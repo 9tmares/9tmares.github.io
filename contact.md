@@ -1,3 +1,8 @@
+---
+layout: default
+title: Contact
+---
+
 # Contact Me
 
 How you can reach me:
