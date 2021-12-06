@@ -6,6 +6,8 @@ Checkpoint with all notes here.
 
 Keeping this part here for now... have to learn how to change this content while clicking buttons on the side bar.
 
+[Link to contatc page](./contact.html).
+
 ```markdown
 Syntax highlighted code block
 
