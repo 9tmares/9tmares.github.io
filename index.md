@@ -1,39 +1,32 @@
 # 9tmares
 
-Checkpoint with all notes here.
+Hiiii!! I'm 9tmares. This is my github page.
 
-### For now
+Making this as a personal website.
 
-Keeping this part here for now... have to learn how to change this content while clicking buttons on the side bar.
+Going to enjoy `coding` with it.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-Trying this out
-## Header 2
-saw this, looks cool
-### Header 3
-by 9tmares
 
-- Bulleted
-- bulleted list?
-- List
 
-1. Numbered
-2. List
-3. numbered list
+### Facts on this website
 
-**Bold** and _Italic_ and `Code` text
+The Jekyll theme used for this website as a template is Architect.
 
-[Link](url) and ![Image](src)
-```
-To edit: [editor on GitHub](https://github.com/9tmares/9tmares.github.io/edit/main/index.md) 
+Got the background from post on pinterest.
 
-Jekyll: [Jekyll](https://jekyllrb.com/)
+The color theme is mainly based on the background and the architect template.
 
-Format Syntaxes: [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-Jekyll Theme: [repository settings](https://github.com/9tmares/9tmares.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-More documentation: [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact)
+
+### _References_
+
+:diamond_shape_with_a_dot_inside: [Jekyll](https://jekyllrb.com/)
+
+:diamond_shape_with_a_dot_inside: [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+:diamond_shape_with_a_dot_inside: [More documentation](https://docs.github.com/categories/github-pages-basics/)
+
+
+
