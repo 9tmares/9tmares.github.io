@@ -1,6 +1,6 @@
 # 9tmares
 
-![9tmares pfp Icon](./assets/images/9tmares.jfif)
+![9tmares](./assets/images/9tmares.jfif)
 
 Hiiii!! I'm 9tmares. This is my github page.
 

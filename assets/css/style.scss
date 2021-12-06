@@ -20,6 +20,18 @@ body {
   background-position:bottom;
 }
 
+img[alt=9tmares]{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+}
+
+img[alt=pegicorn]{
+  width: 50%;
+}
+
 #main-content {
   background: #D5A5E7;
   padding-left: 15px;
