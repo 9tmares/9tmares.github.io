@@ -40,9 +40,14 @@ aside#sidebar a:hover{
   color: #9ddcff;
 }
 
+@media (min-height: 800px) {
+  aside div {
+    position: sticky;
+    top: 0;
+  }
+}
 
 aside#sidebar {
-  position: sticky;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   text-align: center;
   color: floralwhite;
