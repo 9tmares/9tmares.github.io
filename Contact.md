@@ -1,3 +1,6 @@
+layout: page
+title: Contact Me
+
 # Contact Me
 
 How you can reach me:
