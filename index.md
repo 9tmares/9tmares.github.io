@@ -1,6 +1,6 @@
 # 9tmares
 
-![9tmares pfp Icon](../images/9tmares.jfif)
+![9tmares pfp Icon](./assets/images/9tmares.jfif)
 
 Hiiii!! I'm 9tmares. This is my github page.
 
@@ -12,23 +12,23 @@ Going to enjoy coding with it.
 
 
 ## Hobbies
--Coding
+- Coding
 
--Reading books
+- Reading books
 
--Writing stories
+- Writing stories
 
--Listening to music
+- Listening to music
 
--Playing guitar
+- Playing guitar
 
--Writing songs
+- Writing songs
 
--Watching anime
+- Watching anime
 
--Watching netflix
+- Watching netflix
 
--Gaming (Both PC and Mobile)
+- Gaming (Both PC and Mobile)
 
 
 
