@@ -6,7 +6,29 @@ Hiiii!! I'm 9tmares. This is my github page.
 
 Making this as a personal website.
 
-Going to enjoy `coding` with it.
+Going to enjoy coding with it.
+
+
+
+
+## Hobbies
+-Coding
+
+-Reading books
+
+-Writing stories
+
+-Listening to music
+
+-Playing guitar
+
+-Writing songs
+
+-Watching anime
+
+-Watching netflix
+
+-Gaming (Both PC and Mobile)
 
 
 
